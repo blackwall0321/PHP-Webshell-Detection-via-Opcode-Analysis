@@ -181,8 +181,21 @@ Our team specializes in emerging security paradigms. This dataset has been metic
 
 We cordially invite researchers, institutions, and industry partners to leverage this resource for collaborative research initiatives. SSL Security Lab welcomes opportunities to co-develop next-generation security frameworks and address the evolving threats in our increasingly connected digital ecosystem. Let's collaborate to shape the future of cybersecurity.
 
-This work has been accepted as a poster at the **[Network and Distributed System Security (NDSS) Symposium 2025 Accepted Posters](https://www.ndss-symposium.org/ndss2025/accepted-posters/)**, with the full preprint available on arXiv. We welcome citations to our paper or dataset in your research:
+This work has been published in the **[Journal of King Saud University - Computer and Information Sciences](https://link.springer.com/article/10.1007/s44443-025-00235-8)**. This work has also been accepted as a poster at the **[Network and Distributed System Security (NDSS) Symposium 2025 Accepted Posters](https://www.ndss-symposium.org/ndss2025/accepted-posters/)**, with the full preprint available on arXiv. We welcome citations to our paper or dataset in your research:
 
+```bibtex
+@article{wang2025incremental,
+    author = {Zhiqiang Wang and Haoyu Wang and Shaowei Yuan and Zhiang Tian},
+    title = {Incremental learning research for webshell detection},
+    journal = {Journal of King Saud University - Computer and Information Sciences},
+    volume = {37},
+    pages = {249},
+    year = {2025},
+    doi = {10.1007/s44443-025-00235-8},
+    url = {https://link.springer.com/article/10.1007/s44443-025-00235-8}
+}
+```
+or
 ```bibtex
 @misc{ndss2025-poster-46,
     author = {Zhiqiang Wang and Haoyu Wang and Lu Hao},
@@ -220,3 +233,4 @@ Part of the webshell dataset comes from public websites. Some URLs are listed be
 
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 To view details of this license, visit [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
